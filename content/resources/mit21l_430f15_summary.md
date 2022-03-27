@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9812cfa4-2133-0751-4406-abd5881f58d1
 resourcetype: Document
 title: "21L.430F15 Summary of Christa Kamenetsky\u2019s Argument"
 uid: 9c750a9a-a759-b274-0e86-fdf5abf6c789

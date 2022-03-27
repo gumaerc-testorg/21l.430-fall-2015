@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9812cfa4-2133-0751-4406-abd5881f58d1
 resourcetype: Document
 title: '21L.430F15 Jack Zipes, When Dreams Came True: Classical Fairy Tales and Their
   Tradition'

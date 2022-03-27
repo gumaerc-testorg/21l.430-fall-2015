@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 665bc8ca-a48b-4976-68fc-402b04f80ce9
 resourcetype: Document
 title: 21L.430F15 Writing Discursive Essays
 uid: e7deb133-25d3-818f-0304-6a33898e987d

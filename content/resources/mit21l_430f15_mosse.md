@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9812cfa4-2133-0751-4406-abd5881f58d1
 resourcetype: Document
 title: MIT21L_430F15_Mosse
 uid: 6c73cf5c-d01b-cfc8-a641-5fb0c12d76f6

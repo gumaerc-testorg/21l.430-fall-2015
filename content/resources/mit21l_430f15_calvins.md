@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9812cfa4-2133-0751-4406-abd5881f58d1
 resourcetype: Document
 title: 21L.430F15 Calvin S. Hall and Vernon J. Nordby, A Primer of Jungian Psychology
 uid: 8d683f2a-d536-29cf-63e8-09b06be1134a

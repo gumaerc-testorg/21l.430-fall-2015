@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9812cfa4-2133-0751-4406-abd5881f58d1
 resourcetype: Document
 title: "21L.430F15 Angela Carter\u2014a Brief Guide to Non-Featured Stories"
 uid: 3d269a7d-77e8-2a13-6d2f-a6c033598cff

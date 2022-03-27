@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 665bc8ca-a48b-4976-68fc-402b04f80ce9
 resourcetype: Document
 title: 21L.430F15 A Note on References
 uid: b623e799-3754-e90d-a9a9-4adffdd059ea

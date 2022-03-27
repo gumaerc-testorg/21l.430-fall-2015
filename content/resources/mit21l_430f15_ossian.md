@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9812cfa4-2133-0751-4406-abd5881f58d1
 resourcetype: Document
 title: 21L.430F15 'Ossian', James Macpherson, and the antiquity of oral tradition
 uid: b215dc91-60ed-c9f4-5678-da09d9abe706
