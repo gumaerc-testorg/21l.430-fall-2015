@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides two different prompts for a 1500 word essay assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

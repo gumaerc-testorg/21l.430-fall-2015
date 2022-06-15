@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/637f17b5695895c92c3b51014e48bbf7_MIT21L_430F15_FairyTale.pdf
+file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/637f17b5695895c92c3b51014e48bbf7_MIT21L_430F15_FairyTale.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

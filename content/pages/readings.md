@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides citations for required course texts and the schedule
+  of readings by session and topic. Links to online versions of some of the readings
+  are also provided.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -25,7 +28,7 @@ The required texts are as follows:
 
 \[K\] = Kamanetsky, Christa. _Children's Literature in Hitler's Germany: The Cultural Policy of National Socialism_. Ohio University Press, 1984. ISBN: 9780821406991.
 
-Macdonald, Dwight. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Theory of Mass Culture." (PDF)](http://is.muni.cz/el/1421/jaro2008/ESB032/um/5136660/MacDonald_-_A_Theory_of_Mass_Culture.pdf) _Diogenes_, no. 3 (1953): 1–17. (Originally published in Diogenes 1953 1: 1)
+Macdonald, Dwight. ["A Theory of Mass Culture." (PDF)](http://is.muni.cz/el/1421/jaro2008/ESB032/um/5136660/MacDonald_-_A_Theory_of_Mass_Culture.pdf) _Diogenes_, no. 3 (1953): 1–17. (Originally published in Diogenes 1953 1: 1)
 
 \[C\] = Carter, Angela. _The Bloody Chamber and Other Stories_. Penguin Books, 1990. ISBN: 9780140178210.
 
