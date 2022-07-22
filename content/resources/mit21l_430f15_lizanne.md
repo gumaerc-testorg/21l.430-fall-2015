@@ -7,6 +7,7 @@ file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 21L.430F15 Lizanne Henderson and Edward J. Cowan, Scottish Fairy Belief
 uid: 2699ede2-653b-507b-2215-d359a8df60d9
 ---
 This is a file that contains information regarding popular culture and narrative: use and abuse of the fairy tale lizanne henderson and edward j. cowan, scottish fairy belief.
-

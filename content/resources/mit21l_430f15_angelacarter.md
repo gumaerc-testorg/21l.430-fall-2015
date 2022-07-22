@@ -6,6 +6,7 @@ file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "21L.430F15 Angela Carter\u2014a Brief Guide to Non-Featured Stories"
 uid: 3d269a7d-77e8-2a13-6d2f-a6c033598cff
 ---
 This is a file that contains information regarding angela carter—a brief guide to non-featured stories.
-

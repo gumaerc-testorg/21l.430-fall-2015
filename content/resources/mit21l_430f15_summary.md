@@ -7,6 +7,7 @@ file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "21L.430F15 Summary of Christa Kamenetsky\u2019s Argument"
 uid: 9c750a9a-a759-b274-0e86-fdf5abf6c789
 ---
 This is a file that contains information regarding popular culture and narrative: use and abuse of the fairy tale summary of christa kamenetsky’s argument.
-

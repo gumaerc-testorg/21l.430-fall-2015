@@ -7,6 +7,7 @@ file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 21L.430F15 Marie-Louise von Franz, The Interpretation of Fairy Tales
 uid: f4b0f9df-dedb-7fe3-7514-fbccdcaed487
 ---
 This is a file that contains information regarding popular culture and narrative: use and abuse of the fairy tale marie-louise von franz, the interpretation of fairy tales.
-

@@ -6,6 +6,7 @@ file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21L_430F15_EllisGrimms
 uid: 598a9cbe-2d2b-a3c7-7456-8ca8617eb30d
 ---
 Lecture notes for sessions 1-4: Ellis and the Grimms; German nationalism; folk tradition; oral and written culture.
-

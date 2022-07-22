@@ -6,6 +6,7 @@ file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21L.430F15 'Ossian', James Macpherson, and the antiquity of oral traditio
 uid: b215dc91-60ed-c9f4-5678-da09d9abe706
 ---
 This is a file that contains information regarding 'ossian', james macpherson, and the antiquity of oral tradition. 
-

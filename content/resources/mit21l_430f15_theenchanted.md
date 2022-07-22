@@ -7,6 +7,7 @@ file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: "21L.430F15 Jack Zipes, The Enchanted Screen\u2014The Unknown History of 
 uid: 777fe7c7-c240-6afc-96e5-aa6fc1c9aec2
 ---
 This is a file that contains information regarding popular culture and narrative: use and abuse of the fairy tale jack zipes, the enchanted screen—the unknown history of fairy-tale films.
-
