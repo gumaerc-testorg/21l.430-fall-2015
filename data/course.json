@@ -34,7 +34,8 @@
   "course_title": "Popular Culture and Narrative: Use and Abuse of the Fairy Tale",
   "course_description": "This course takes a deep look at a big subject. We ask where Fairy Tales come from and we examine the structure of Fairy Tales. We'll also look at how Fairy Tales are conditioned by oral transmission and inherited story-telling techniques.\n",
   "department_numbers": [
-    "21L"
+    "21L",
+    "CMS-W"
   ],
   "extra_course_numbers": "CMS.920",
   "primary_course_number": "21L.430",
@@ -46,6 +47,7 @@
     "Lecture Notes",
     "Written Assignments with Examples"
   ],
-  "site_uid": "938c269a-e1d7-4a8b-8bd2-a5a7560587c9",
+  "site_uid": "d14bb99f-490f-45ed-b434-233ee7d98bf5",
+  "site_short_id": "21l.430-fall-2015",
   "title": "Course Metadata"
 }
