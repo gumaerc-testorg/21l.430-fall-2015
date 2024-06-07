@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding popular culture and
   narrative: use and abuse of the fairy tale liz lochhead reading guide.'
 file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/987cd343863647cb51a8b2aba84467d3_MIT21L_430F15_LizLoch.pdf
+file_size: 588313
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

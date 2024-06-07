@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding ''ossian'', james
   macpherson, and the antiquity of oral tradition. '
 file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/b215dc9160edc9f45678da09d9abe706_MIT21L_430F15_Ossian.pdf
+file_size: 427712
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
