@@ -4,6 +4,7 @@ description: 'This is a file that contains information regarding popular culture
   narrative: use and abuse of the fairy tale jack zpes, when dreams came true: classical
   fairy tales and their tradition.'
 file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/c32daacb455a9aab4a963685283ae5d7_MIT21L_430F15_WhenDreams.pdf
+file_size: 641607
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
