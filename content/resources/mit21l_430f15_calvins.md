@@ -4,6 +4,7 @@ description: 'This is a file that contains information regarding popular culture
   narrative: use and abuse of the fairy tale calvin s. hall and vernon j. nordby,
   a primer of Jungian Psychology.'
 file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/8d683f2ad53629cf63e809b06be1134a_MIT21L_430F15_CalvinS.pdf
+file_size: 687227
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
