@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/6c73cf5cd01bcfc8a6415fb0c12d76f6_MIT21L_430F15_Mosse.pdf
+file: /ol-ocw-studio-app/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/6c73cf5cd01bcfc8a6415fb0c12d76f6_MIT21L_430F15_Mosse.pdf
 file_size: 179438
 file_type: application/pdf
 learning_resource_types:
