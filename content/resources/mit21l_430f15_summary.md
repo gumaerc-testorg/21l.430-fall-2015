@@ -3,7 +3,7 @@ content_type: resource
 description: "This is a file that contains information regarding popular culture and\
   \ narrative: use and abuse of the fairy tale summary of christa kamenetsky\u2019\
   s argument."
-file: /ol-ocw-studio-app/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/9c750a9aa759b2740e86fdf5abf6c789_MIT21L_430F15_Summary.pdf
+file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/9c750a9aa759b2740e86fdf5abf6c789_MIT21L_430F15_Summary.pdf
 file_size: 147775
 file_type: application/pdf
 learning_resource_types:

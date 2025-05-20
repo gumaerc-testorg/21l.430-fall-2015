@@ -3,7 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding popular culture and
   narrative: use and abuse of the fairy tale robert graves, the white goddess--a historical
   grammar of poetic myth.'
-file: /ol-ocw-studio-app/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/3a66d18aa7848cc9baa5de2e360e2617_MIT21L_430F15_Robert.pdf
+file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/3a66d18aa7848cc9baa5de2e360e2617_MIT21L_430F15_Robert.pdf
 file_size: 145255
 file_type: application/pdf
 learning_resource_types:

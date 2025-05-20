@@ -3,7 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding popular culture and
   narrative: use and abuse of the fairy tale w. y. evans-wentz, the fairy-faith in
   celtic countries.'
-file: /ol-ocw-studio-app/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/17410c9ecad7d93bc3c25363dd773b4a_MIT21L_430F15_Evans.pdf
+file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/17410c9ecad7d93bc3c25363dd773b4a_MIT21L_430F15_Evans.pdf
 file_size: 596765
 file_type: application/pdf
 learning_resource_types:
