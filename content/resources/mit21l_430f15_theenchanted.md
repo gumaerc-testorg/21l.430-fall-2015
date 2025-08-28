@@ -3,7 +3,7 @@ content_type: resource
 description: "This is a file that contains information regarding popular culture and\
   \ narrative: use and abuse of the fairy tale jack zipes, the enchanted screen\u2014\
   the unknown history of fairy-tale films."
-file: /courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/777fe7c7c2406afc96e5aa6fc1c9aec2_MIT21L_430F15_TheEnchanted.pdf
+file: /ol-ocw-studio-app/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/777fe7c7c2406afc96e5aa6fc1c9aec2_MIT21L_430F15_TheEnchanted.pdf
 file_size: 646144
 file_type: application/pdf
 learning_resource_types:
